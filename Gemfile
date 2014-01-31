@@ -46,3 +46,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# vedi https://devcenter.heroku.com/articles/getting-started-with-rails4
+gem 'rails_12factor', group: :production
